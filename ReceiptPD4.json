@@ -1,0 +1,26 @@
+[{
+    "Payment": {
+      "Name": "123",
+      "rub": "123",
+      "penny": "123",
+      "rubCom": "123",
+      "pennyCom": "123",
+      "rubTotal": "123",
+      "pennyTotal": "123",
+      "day": "1",
+      "month": "1",
+      "year": "2020"
+    },
+    "Payer": {
+      "firstName": "PayerName1",
+      "lastName": "PayerName2",
+      "middleName": "qwe",
+      "address": "qwe"
+    },
+    "Name": "qwe",
+    "inn": "123123",
+    "bankAccount": "123123",
+    "bankName": "qwe",
+    "bic": "123123",
+    "bankCorrAccount": "123123"
+  }]
